@@ -1,7 +1,7 @@
 ## Start a new idea
 
 ```bash
-git clone git@github.com:psalaets/webpack-quick-start.git new-idea
+git clone git@github.com:psalaets/webpack-quick-start.git <directory>
 cd $_
 npm install
 npm run dev
